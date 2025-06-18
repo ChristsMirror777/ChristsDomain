@@ -47,9 +47,9 @@ Note this about the above entry. How is The Spirit of The Lord not God himself. 
 
 Because of this we believe there is no meaningful difference between The Believer and God. The Father is The Spirit, The Spirit is in Christ and us, and we are one with Christ as Christ is one with The Father. So just as He is One with The Father, We are one with The Father. "I and my Father are One." Why is it blasphemy to mirror Christ?
 
-This group maintains the belief that many "heretical" teachings are completely supported by The Bible, and we have no intention of rejecting The Truth Which is Christ.
+This group maintains the belief that some "heretical" teachings are completely supported by The Bible, and we have no intention of rejecting The Truth Which is Christ.
 
-A core principal of this group is the liberation from the mental strongholds of religion, to the realization of The Truth through Scripture. And overcoming the snare of favoring language over understanding, which language cannot fully convey.
+A core principal of this group is the liberation from the mental strongholds of religion, to the realization of The Truth through Scripture. And overcoming the snare of language over understanding, which language cannot fully convey.
 
 ## 2 Corinthians 3:6
 6 He has made us competent as ministers of a new covenant—not of the letter but of the Spirit; for the letter kills, but the Spirit gives life.
@@ -57,11 +57,11 @@ A core principal of this group is the liberation from the mental strongholds of 
 
 # Formatting
 
-As you can see, everything folds nicely within obsidian. Longer verses fold as well as the verse itself when following the shown markdown standard. Allowing for an easy visual of all supported verses.
+If you open this file in Obsidian, everything folds nicely. Longer verses fold as well as the verse itself when following the shown markdown standard. Allowing for an easy visual of all supported verses.
 
 Notice how every paragraph is separated by a new line, this helps with information overload by creating bite sized chunks. Ideally things should be as brief and simple as possible. Using ChatGPT to shorten your sentences is ok.
 
-New maintainers are generally selected by the current group of maintainers as worthy based on maintainers discernment and prayer. If the group generally agrees and has all prayed about it, the new maintainer will be added.
+New maintainers are selected by the current group of maintainers as worthy based on maintainers discernment and prayer. If the group generally agrees and has all prayed about it, the new maintainer will be added.
 
 There is no formal process. Only spirit led selection.
 
